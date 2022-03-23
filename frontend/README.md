@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+website using react , nodejs and  mongoDB . which has 2 login and signup one for admin other for user . admin can update weather information day and timewise  and user can see weather information and sort it according to particular date. website is responsive.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

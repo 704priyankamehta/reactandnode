@@ -1,0 +1,16 @@
+.d {
+  display: block;
+  background-color: rgb(235, 241, 243);
+  color: black;
+  width: 300px;
+  border: 1px solid rgb(0, 70, 128);
+  padding: 50px;
+  margin: 20px;
+}
+.down {
+  text-align: center;
+  background-color: pink;
+}
+.logout {
+  text-align: right;
+}
